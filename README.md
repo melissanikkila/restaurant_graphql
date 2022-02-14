@@ -1,3 +1,6 @@
+
+<img width="2219" alt="restaurants_all" src="https://user-images.githubusercontent.com/87152060/153933250-115a02be-ce64-4f85-8f8f-cf8ec77617a2.png">
+
 # Restaurant GraphQL Project
 An example project on how to implement CRUD using GraphQL and a small restaurant database.
 
